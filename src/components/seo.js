@@ -2,10 +2,10 @@ import React from 'react';
 import Head from 'next/head';
 
 export default function SEO({
-  description = 'startup product landing page',
-  author = 'JSM',
+  description = 'Мобилни приложения за IOS & Android',
+  author = 'apple-android.com',
   meta,
-  title = 'startup landing title',
+  title = 'Mobile apps for apple and android',
 }) {
   const metaData = [
     {
