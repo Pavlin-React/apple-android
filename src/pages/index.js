@@ -18,7 +18,7 @@ export default function IndexPage() {
   return (
     <ThemeProvider theme={theme}>
         <Layout>
-          <SEO title="Моб приложения IOS & Android" />
+          <SEO title="Marijuana Shop" />
           <Banner />
           <KeyFeature />
           <ServiceSection />
